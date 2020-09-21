@@ -22,4 +22,4 @@ Please fork this repository and pull any issues
 
 ### Copyright
 
-Git Training
+2020 Git Training @ Training
