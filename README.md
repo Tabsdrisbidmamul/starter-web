@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Rebasing example! Adding more text from rebase-branch!
+This repository is for showing how Git and GitHub work. Emergency fix for stash!
 
 ## Introduction
 
